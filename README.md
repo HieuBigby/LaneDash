@@ -1,5 +1,6 @@
 # Lane Dash
 LaneDash is a hyper-casual game where you guide a ball to dodge falling obstacles and survive as long as possible! 🎯
+
 Swipe to switch lanes, move left or right between poles and keep the ball safe from objects dropping from the top.
 
 ## Screenshots
